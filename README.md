@@ -48,7 +48,3 @@ python main.py list --status active
 * **Розробник:** Нестерська Софія
 * **Email:** nesterska.s.o_kn25@rcit.ukr.education
 * **GitHub:** [профіль](https://github.com/nesterskasokn25)
-
-git add README.md
-git commit -m "docs: add comprehensive README with project setup and usage table"
-git push
